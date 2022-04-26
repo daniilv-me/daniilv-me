@@ -3,6 +3,7 @@
 ## I'm 😵‍💫
 * learning C#, JavaScript, Python
 * studying Artificial Intelligence - Software Engineering Technology
+* working with datacenters and reselling servers 
 
 ![Profile views](https://gpvc.arturio.dev/daniilv-me)
 ## Tech stack 💻
